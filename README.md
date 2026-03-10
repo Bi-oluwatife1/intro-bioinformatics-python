@@ -7,3 +7,4 @@ I am a Biochemistry undergraduate exploring bioinformatics and computational bio
 This repository contains simple Python scripts I am using to learn how biological data can be analyzed computationally.
 -Reading DNA sequences from files
 -Computing nucleotide composition and GC content.
+- Analysis of gene expression data using pandas.
